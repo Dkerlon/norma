@@ -1,0 +1,14 @@
+{
+  "name": "norma-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": { "vue": "^3.5.13" },
+  "devDependencies": { "@vitejs/plugin-vue": "^5.2.3", "typescript": "^5.7.2", "vite": "^6.0.7", "vitest": "^2.1.8", "vue-tsc": "^2.2.0" }
+}
