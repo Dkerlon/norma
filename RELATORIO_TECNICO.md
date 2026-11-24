@@ -80,10 +80,10 @@ O algoritmo usa subtrações sucessivas. A cada subtração integral de `B` em `
 
 | Caso | Entrada | Resultado esperado | Resultado observado |
 |---|---|---|---|
-| TC-01 | `A=5, B=3, C=0` | `A=8, B=3, C=0` | preencher após execução |
-| TC-02 | `A=3, B=5` | `A=0` | preencher após execução |
-| TC-03 | `A=4, B=3, C=0` | `A=4, B=3, C=12` | preencher após execução |
-| TC-04 | `A=14, B=3` | `Q=4, R=2` | preencher após execução |
+| TC-01 | `A=5, B=3, C=0` | `A=8, B=3, C=0` | `A=8, B=3, C=0` |
+| TC-02 | `A=3, B=5` | `A=0` | `A=0` |
+| TC-03 | `A=4, B=3, C=0` | `A=4, B=3, C=12` | `A=4, B=3, C=12` |
+| TC-04 | `A=14, B=3` | `Q=4, R=2` | `Q=4, R=2` |
 
 ## 8. Procedimento de demonstração
 

@@ -14,11 +14,11 @@
 
 ## Qualidade e entrega
 
-- [x] Testes automatizados de primitivas e TC-01 a TC-03.
+- [x] Testes automatizados de primitivas, macros, erros e TC-01 a TC-04.
 - [x] Teste automatizado TC-04.
 - [x] Execução de todos os testes automatizados.
 - [x] Build de produção para Vercel.
 - [x] README com instalação, sintaxe e roteiro de demonstração.
-- [x] Relatório técnico-base: arquitetura, registradores, grafos, procedimentos e tabela de evidências.
-- [ ] Preencher integrantes/RA e resultados observados no relatório antes da entrega.
+- [x] Relatório técnico em DOCX: arquitetura, registradores, grafos, procedimentos e tabela de evidências.
+- [ ] Preencher integrantes/RA e data no relatório antes da entrega.
 - [ ] Preparar apresentação oral de 10 a 15 minutos.
